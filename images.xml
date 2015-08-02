@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slider>
+    <image>
+        <height>450</height>
+        <path>http://bestinspired.com/wp-content/uploads/2015/03/4-Nature-Wallpapers-2014-1.jpg</path>
+        <width>800</width>
+    </image>
+    <image>
+        <height>450</height>
+        <path>https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg</path>
+        <width>800</width>
+    </image>
+    <image>
+        <height>450</height>
+        <path>http://thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg</path>
+        <width>800</width>
+    </image>
+</slider>
